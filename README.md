@@ -9,3 +9,5 @@ As dicas não estão em ordem de importância, não há dica mais ou menos relev
 Espero que seja uma leitura proveitosa e que ajude a melhorar as rotinas de administração de redes. 
 
 Boa leitura!	
+
+# Edição 1.0 - https://github.com/emmonks/50Dicas/releases/download/v1/++50.Dicas.para.Administradores.de.Redes.pdf
