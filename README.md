@@ -1,5 +1,5 @@
-# 50Dicas
-Livro ++50 Dicas para Administradores de Redes
+# Livro "++50 Dicas para Administradores de Redes"
+
 
 Este livro tem como objetivo publicar dicas para administradores de redes que foram experimentadas durante a minha vivência na área. São mais de 25 anos, começando como estagiário no ano de 1995 e chegando em 2024 atuando diretamente na área como técnico e docente. São dicas valiosas que poderão ajudar muito os iniciantes na área e aos mais experientes ajudar nas melhorias de alguns procedimentos e rotinas que podem salvar o final de semana e até mesmo o emprego. 
 
