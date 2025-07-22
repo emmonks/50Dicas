@@ -12,3 +12,5 @@ Boa leitura!
 
 # Edição 1.1 - https://github.com/emmonks/50Dicas/releases/download/v1/++50.Dicas.para.Administradores.de.Redes.pdf
 # Edição v2 - https://github.com/emmonks/50Dicas/releases/download/v2/++50.Dicas.para.Administradores.de.Redes_v2.pdf
+
+Este livro também pode ser obtido em formato físico na loja da editora UICLAP, disponível em https://loja.uiclap.com/
